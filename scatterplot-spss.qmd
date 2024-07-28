@@ -1,5 +1,5 @@
 ---
-title: Boxplots in SPSS
+title: Scatterplot in SPSS
 subtitle: Cheatsheet
 date: today
 lightbox: true
