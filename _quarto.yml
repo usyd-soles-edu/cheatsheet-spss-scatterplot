@@ -1,0 +1,18 @@
+project:
+  title: "boxplot-spss"
+
+
+
+format:
+  html:
+    theme: 
+      light: matria
+      dark: slate
+    number-sections: true
+  pdf:
+    toc: false
+    fontsize: 11pt
+execute:
+  freeze: auto
+
+embed-resources: true
